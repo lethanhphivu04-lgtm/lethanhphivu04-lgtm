@@ -7,9 +7,11 @@ School:                          Cao Dang Cong Thuong TP.HCM
 Kernel:                          ASP.NET Core, React, PHP
 IDE:                             VS Code, Visual Studio
 
+
 Languages:                       C#, JavaScript, Python, PHP
 Foreign language certificate     C1 English( IELST 7.0) , German: Upper-Intermediate (B2) 
 Hobbies:                         Coding, Gaming, Sleep, Grab driver for fun
+
 
 -- Contact
 Email:                            lethanhphivu04@gmail.com
