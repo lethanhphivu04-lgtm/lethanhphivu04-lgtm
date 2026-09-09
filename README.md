@@ -1,16 +1,17 @@
-## Hi there 👋
+lethanhphivu@github
+------------------------------------------------
+OS:                  Windows 11, Linux
+Role:                Full-stack Developer
+School:              Cao Dang Cong Thuong TP.HCM
+Kernel:              ASP.NET Core, React, PHP
+IDE:                 VS Code, Visual Studio
 
-<!--
-**lethanhphivu04-lgtm/lethanhphivu04-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages:           C#, JavaScript, Python, PHP
+Hobbies:             Coding, Gaming, Learning New Tech
 
-Here are some ideas to get you started:
+-- Contact
+Email:               lethanhphivu04@gmail.com
+Location:            Ho Chi Minh City, Vietnam
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-- Projects
+Featured:            QuizzApp_TV, LTW_01, CHUYEN_DE_THUC_TAP
